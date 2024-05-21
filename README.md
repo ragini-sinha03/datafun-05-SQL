@@ -3,7 +3,7 @@
 In this module, we will integrate python and SQL by using SQLITE. In this, we will create and manage a database by building schema and perform various SQL operations. 
 
 ## Deliverable Names:
-GitHub Repository: datafun-05-spec
+GitHub Repository: datafun-05-SQL
 Documentation: README.md
 
 ## External Dependencies:
